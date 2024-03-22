@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ETH1ACPL-C79x")(type "KiCad")(uri "${KIPRJMOD}/lib/SCH/ETH1ACPL-C79x.kicad_sym")(options "")(descr ""))
+)
