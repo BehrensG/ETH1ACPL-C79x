@@ -6288,16 +6288,20 @@
 		(uuid "1a030546-fb3e-42cc-9fba-d0f3f8d02df6")
 	)
 	(no_connect
+		(at 144.78 69.85)
+		(uuid "1bdd7247-1fd7-4eaa-943c-2430f4311f76")
+	)
+	(no_connect
 		(at 246.38 152.4)
 		(uuid "1f6813a7-f353-4e0b-9184-daf6f56e07a1")
 	)
 	(no_connect
-		(at 187.96 44.45)
-		(uuid "2a1ef9e3-125c-4747-b9ea-4a97b4845ce8")
-	)
-	(no_connect
 		(at 187.96 107.95)
 		(uuid "2a6e9756-2e1a-4352-b32b-d659a5eb7aa2")
+	)
+	(no_connect
+		(at 144.78 77.47)
+		(uuid "2c846b99-f24e-4eea-bc95-9daa76f02eac")
 	)
 	(no_connect
 		(at 144.78 118.11)
@@ -6372,10 +6376,6 @@
 		(uuid "73c8cd1f-b589-4db3-81ec-9ea73802a82f")
 	)
 	(no_connect
-		(at 187.96 41.91)
-		(uuid "73dbb4ef-2821-4e7b-b53e-ed1fd4104dc8")
-	)
-	(no_connect
 		(at 187.96 138.43)
 		(uuid "75892c78-f9a3-47c4-879e-9a9356625bc5")
 	)
@@ -6416,12 +6416,12 @@
 		(uuid "902d1d94-5d31-42ba-9344-ce192482bf77")
 	)
 	(no_connect
-		(at 187.96 39.37)
-		(uuid "92606152-d723-4b69-9fe2-5d4d2b6b3edc")
-	)
-	(no_connect
 		(at 30.48 41.91)
 		(uuid "96b7f354-3ae0-4e95-8e81-3d03ce05e5b2")
+	)
+	(no_connect
+		(at 144.78 72.39)
+		(uuid "98eb0876-4006-4d81-b977-66a117e5c0c5")
 	)
 	(no_connect
 		(at 187.96 151.13)
@@ -6615,7 +6615,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 77.47) (xy 144.78 77.47)
+			(xy 189.23 44.45) (xy 187.96 44.45)
 		)
 		(stroke
 			(width 0)
@@ -7025,7 +7025,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 72.39) (xy 144.78 72.39)
+			(xy 189.23 41.91) (xy 187.96 41.91)
 		)
 		(stroke
 			(width 0)
@@ -7075,7 +7075,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 69.85) (xy 144.78 69.85)
+			(xy 189.23 39.37) (xy 187.96 39.37)
 		)
 		(stroke
 			(width 0)
@@ -8692,13 +8692,13 @@
 	)
 	(hierarchical_label "MCU_G1"
 		(shape output)
-		(at 140.97 77.47 180)
+		(at 189.23 44.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "30da59dc-24ac-48d1-b776-ec8ca48abd11")
 	)
@@ -8776,13 +8776,13 @@
 	)
 	(hierarchical_label "MCU_G10"
 		(shape output)
-		(at 140.97 72.39 180)
+		(at 189.23 41.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "91b1150f-37f5-4341-b41f-beb23cbe3831")
 	)
@@ -8812,13 +8812,13 @@
 	)
 	(hierarchical_label "MCU_G100"
 		(shape output)
-		(at 140.97 69.85 180)
+		(at 189.23 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "9bb5a339-baf5-457d-9be9-f80d123d5348")
 	)
