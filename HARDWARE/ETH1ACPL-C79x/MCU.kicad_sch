@@ -6332,6 +6332,14 @@
 		(uuid "448c2b07-3865-4e8a-bcc8-adac6314715d")
 	)
 	(no_connect
+		(at 144.78 87.63)
+		(uuid "4ed1a5e6-de90-43f8-a2f4-76def63ea33c")
+	)
+	(no_connect
+		(at 144.78 80.01)
+		(uuid "51ceebd4-a86a-4e4f-b4d4-43a8628d373e")
+	)
+	(no_connect
 		(at 187.96 80.01)
 		(uuid "575cb6b3-731e-4de7-aad7-2b08209d87db")
 	)
@@ -6358,6 +6366,10 @@
 	(no_connect
 		(at 144.78 97.79)
 		(uuid "72c4e78e-462d-46b3-95cc-92f4e65e8f54")
+	)
+	(no_connect
+		(at 144.78 90.17)
+		(uuid "73c8cd1f-b589-4db3-81ec-9ea73802a82f")
 	)
 	(no_connect
 		(at 187.96 41.91)
@@ -6416,6 +6428,10 @@
 		(uuid "9a54b13d-a904-4ed2-b05e-17802f7196fa")
 	)
 	(no_connect
+		(at 144.78 82.55)
+		(uuid "9a7d0ba5-cf3a-4d54-b464-1f592e2ed3ac")
+	)
+	(no_connect
 		(at 246.38 149.86)
 		(uuid "9b428afe-4fb5-4aed-b0fe-6a22b2e54aea")
 	)
@@ -6470,6 +6486,10 @@
 	(no_connect
 		(at 187.96 82.55)
 		(uuid "e7c811f7-6ad6-4439-9af4-aeef0ea4d077")
+	)
+	(no_connect
+		(at 144.78 74.93)
+		(uuid "e97880dd-a62e-4e3c-be92-d11ff94b3649")
 	)
 	(no_connect
 		(at 187.96 97.79)
@@ -6865,6 +6885,16 @@
 	)
 	(wire
 		(pts
+			(xy 67.31 97.79) (xy 82.55 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d325baa-e6c0-4424-940b-2bab93219f15")
+	)
+	(wire
+		(pts
 			(xy 62.23 181.61) (xy 73.66 181.61)
 		)
 		(stroke
@@ -6935,6 +6965,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 92.71) (xy 82.55 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "373a892b-f8f8-4a8e-8fc1-220e9bd0093d")
+	)
+	(wire
+		(pts
 			(xy 134.62 153.67) (xy 139.7 153.67)
 		)
 		(stroke
@@ -6952,16 +6992,6 @@
 			(type default)
 		)
 		(uuid "3906501f-cc33-4405-b4ce-8b459bcd204b")
-	)
-	(wire
-		(pts
-			(xy 140.97 82.55) (xy 144.78 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "398e3bc5-fb99-492f-874a-a845e4faa3f6")
 	)
 	(wire
 		(pts
@@ -7075,16 +7105,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 97.79) (xy 87.63 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b428f82-58f8-40ca-8be0-fa2b90914502")
-	)
-	(wire
-		(pts
 			(xy 187.96 100.33) (xy 189.23 100.33)
 		)
 		(stroke
@@ -7182,16 +7202,6 @@
 			(type default)
 		)
 		(uuid "5ae63cfb-9637-44dd-83c8-a7a8c4659932")
-	)
-	(wire
-		(pts
-			(xy 140.97 74.93) (xy 144.78 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d7831ae-304f-493a-b1b0-68fdd8f902d8")
 	)
 	(wire
 		(pts
@@ -7392,26 +7402,6 @@
 			(type default)
 		)
 		(uuid "7d9593e3-efa6-4feb-980a-f5e140626811")
-	)
-	(wire
-		(pts
-			(xy 140.97 80.01) (xy 144.78 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e21e2ee-a6df-4b31-bc08-b354ee560be6")
-	)
-	(wire
-		(pts
-			(xy 140.97 90.17) (xy 144.78 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e817c8e-95ce-457b-875d-9e3405eb724e")
 	)
 	(wire
 		(pts
@@ -8025,16 +8015,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 92.71) (xy 87.63 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca2b5be6-20f6-4771-afb6-f64fd1780aba")
-	)
-	(wire
-		(pts
 			(xy 187.96 130.81) (xy 212.09 130.81)
 		)
 		(stroke
@@ -8092,16 +8072,6 @@
 			(type default)
 		)
 		(uuid "ce97e9cb-dfce-411e-8245-fe3d5aa148cd")
-	)
-	(wire
-		(pts
-			(xy 140.97 87.63) (xy 144.78 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf405a28-d041-418d-8c2c-d044e9797749")
 	)
 	(wire
 		(pts
@@ -8245,6 +8215,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 97.79) (xy 97.79 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd4414a4-128e-4586-bf34-09f79c8ca73d")
+	)
+	(wire
+		(pts
 			(xy 128.27 138.43) (xy 128.27 144.78)
 		)
 		(stroke
@@ -8322,6 +8302,16 @@
 			(type default)
 		)
 		(uuid "ecc60497-bbc0-4cd9-afcb-acefddeeba95")
+	)
+	(wire
+		(pts
+			(xy 90.17 92.71) (xy 97.79 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edaf916b-5761-4b0b-9f6f-c2ce3d165015")
 	)
 	(wire
 		(pts
@@ -8436,7 +8426,7 @@
 		(uuid "01d029f1-e123-4ad2-87fd-8475bd78430d")
 	)
 	(label "VOUTN"
-		(at 87.63 97.79 180)
+		(at 97.79 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8678,7 +8668,7 @@
 		(uuid "f2ea8827-ea2d-4380-8b3a-83ad3c2e95d0")
 	)
 	(label "VOUTP"
-		(at 87.63 92.71 180)
+		(at 97.79 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8687,18 +8677,6 @@
 			(justify right bottom)
 		)
 		(uuid "f497422d-e3e8-42f7-8717-f3358c40eefd")
-	)
-	(hierarchical_label "MCU_DIV10"
-		(shape output)
-		(at 140.97 80.01 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "12654aa2-f504-4252-9a01-a4b87c59b521")
 	)
 	(hierarchical_label "RMII_MDC"
 		(shape bidirectional)
@@ -8784,18 +8762,6 @@
 		)
 		(uuid "70827e0e-87a1-4218-92b3-87a2f72902c7")
 	)
-	(hierarchical_label "MCU_DIV1"
-		(shape output)
-		(at 140.97 90.17 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "72039839-3e32-48f5-8b63-6621631dd84e")
-	)
 	(hierarchical_label "NRST"
 		(shape bidirectional)
 		(at 95.25 29.21 180)
@@ -8807,30 +8773,6 @@
 			(justify right)
 		)
 		(uuid "7c933826-9b03-4864-b960-2db1bd65e501")
-	)
-	(hierarchical_label "MCU_DIV100"
-		(shape output)
-		(at 140.97 82.55 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "88dff7d1-b98d-46f8-b637-2cca25560fea")
-	)
-	(hierarchical_label "MCU_MEAS_ENA"
-		(shape output)
-		(at 140.97 74.93 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8fad663f-bd67-449d-ad85-1290664e3e27")
 	)
 	(hierarchical_label "MCU_G10"
 		(shape output)
@@ -8903,18 +8845,6 @@
 			(justify left)
 		)
 		(uuid "e5ad0b33-f469-4418-9ef4-a45cd724de8e")
-	)
-	(hierarchical_label "MCU_DIV_ENA"
-		(shape output)
-		(at 140.97 87.63 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fa5ca41a-c074-4c94-bfbd-461d3ca80662")
 	)
 	(hierarchical_label "RMII_RXD1"
 		(shape bidirectional)
@@ -8994,7 +8924,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0431")
+					(reference "#PWR0231")
 					(unit 1)
 				)
 			)
@@ -9016,7 +8946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f6738de-d490-4b05-8fd2-04200c4fa92d")
-		(property "Reference" "#PWR0215"
+		(property "Reference" "#PWR0208"
 			(at 58.42 111.76 0)
 			(effects
 				(font
@@ -9066,7 +8996,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0215")
+					(reference "#PWR0208")
 					(unit 1)
 				)
 			)
@@ -9082,7 +9012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0fa3f15e-4fc0-44ef-8d37-c2133760d9ca")
-		(property "Reference" "#PWR0210"
+		(property "Reference" "#PWR0207"
 			(at 58.42 86.36 0)
 			(effects
 				(font
@@ -9132,7 +9062,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0210")
+					(reference "#PWR0207")
 					(unit 1)
 				)
 			)
@@ -9214,7 +9144,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "D401")
+					(reference "D201")
 					(unit 1)
 				)
 			)
@@ -9296,7 +9226,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C401")
+					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -9374,7 +9304,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0435")
+					(reference "#PWR0235")
 					(unit 1)
 				)
 			)
@@ -9395,7 +9325,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3413791b-b630-406a-8e5a-7512da92afc6")
-		(property "Reference" "U204"
+		(property "Reference" "U201"
 			(at 67.056 83.566 0)
 			(effects
 				(font
@@ -9465,7 +9395,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "U204")
+					(reference "U201")
 					(unit 1)
 				)
 			)
@@ -9537,7 +9467,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0426")
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
@@ -9619,7 +9549,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "Y401")
+					(reference "Y201")
 					(unit 1)
 				)
 			)
@@ -9641,7 +9571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36302093-e4f8-46d8-9601-e6e0e623cd29")
-		(property "Reference" "#PWR0214"
+		(property "Reference" "#PWR0216"
 			(at 67.31 139.7 0)
 			(effects
 				(font
@@ -9692,7 +9622,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0214")
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -9766,7 +9696,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "FB401")
+					(reference "FB201")
 					(unit 1)
 				)
 			)
@@ -9788,7 +9718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bd19179-8bca-4f6a-8104-ed5ff0f673ff")
-		(property "Reference" "#PWR0213"
+		(property "Reference" "#PWR0215"
 			(at 67.31 134.62 0)
 			(effects
 				(font
@@ -9839,7 +9769,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0213")
+					(reference "#PWR0215")
 					(unit 1)
 				)
 			)
@@ -9915,7 +9845,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C419")
+					(reference "C219")
 					(unit 1)
 				)
 			)
@@ -9994,7 +9924,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0425")
+					(reference "#PWR0225")
 					(unit 1)
 				)
 			)
@@ -10076,7 +10006,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C406")
+					(reference "C206")
 					(unit 1)
 				)
 			)
@@ -10154,7 +10084,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0405")
+					(reference "#PWR0205")
 					(unit 1)
 				)
 			)
@@ -10232,7 +10162,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0424")
+					(reference "#PWR0224")
 					(unit 1)
 				)
 			)
@@ -10310,7 +10240,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#FLG0401")
+					(reference "#FLG0201")
 					(unit 1)
 				)
 			)
@@ -10388,7 +10318,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0437")
+					(reference "#PWR0237")
 					(unit 1)
 				)
 			)
@@ -10467,7 +10397,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0419")
+					(reference "#PWR0219")
 					(unit 1)
 				)
 			)
@@ -10545,7 +10475,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0420")
+					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -10623,7 +10553,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0401")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
@@ -10701,7 +10631,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0427")
+					(reference "#PWR0227")
 					(unit 1)
 				)
 			)
@@ -10781,7 +10711,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "R403")
+					(reference "R204")
 					(unit 1)
 				)
 			)
@@ -10863,7 +10793,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C412")
+					(reference "C212")
 					(unit 1)
 				)
 			)
@@ -10936,7 +10866,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0428")
+					(reference "#PWR0228")
 					(unit 1)
 				)
 			)
@@ -11008,7 +10938,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0438")
+					(reference "#PWR0238")
 					(unit 1)
 				)
 			)
@@ -11090,7 +11020,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C405")
+					(reference "C204")
 					(unit 1)
 				)
 			)
@@ -11168,7 +11098,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0430")
+					(reference "#PWR0230")
 					(unit 1)
 				)
 			)
@@ -11250,7 +11180,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C407")
+					(reference "C207")
 					(unit 1)
 				)
 			)
@@ -11332,7 +11262,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C411")
+					(reference "C211")
 					(unit 1)
 				)
 			)
@@ -11408,13 +11338,80 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "R404")
+					(reference "R205")
 					(unit 1)
 				)
 			)
 			(project "ETH1IRCAM1"
 				(path "/f8ed47a9-95cb-42d4-bd7f-c1b2ff57d6fd/02ab86d0-6a73-43f0-a2e2-fa1962166526"
 					(reference "R404")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 86.36 92.71 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8350c69c-1dfd-46e9-850a-6b131aea45be")
+		(property "Reference" "R207"
+			(at 86.36 90.424 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 86.36 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 86.36 94.488 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 86.36 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2491184c-f338-4086-8906-dd967e44a221")
+		)
+		(pin "1"
+			(uuid "53075211-5625-4299-8c8e-eb80ee4a4c55")
+		)
+		(instances
+			(project "ETH1ACPL-C79x"
+				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
+					(reference "R207")
 					(unit 1)
 				)
 			)
@@ -11430,7 +11427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "835c7ef7-f08c-48af-b717-2f3d103d7b59")
-		(property "Reference" "#PWR0212"
+		(property "Reference" "#PWR0210"
 			(at 58.42 149.86 0)
 			(effects
 				(font
@@ -11480,7 +11477,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0212")
+					(reference "#PWR0210")
 					(unit 1)
 				)
 			)
@@ -11552,7 +11549,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0429")
+					(reference "#PWR0229")
 					(unit 1)
 				)
 			)
@@ -11629,7 +11626,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0414")
+					(reference "#PWR0212")
 					(unit 1)
 				)
 			)
@@ -11701,7 +11698,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0423")
+					(reference "#PWR0223")
 					(unit 1)
 				)
 			)
@@ -11783,7 +11780,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C414")
+					(reference "C214")
 					(unit 1)
 				)
 			)
@@ -11865,7 +11862,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "R402")
+					(reference "R203")
 					(unit 1)
 				)
 			)
@@ -11943,7 +11940,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0421")
+					(reference "#PWR0221")
 					(unit 1)
 				)
 			)
@@ -12021,7 +12018,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0404")
+					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
@@ -12100,7 +12097,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0432")
+					(reference "#PWR0232")
 					(unit 1)
 				)
 			)
@@ -12182,7 +12179,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C415")
+					(reference "C215")
 					(unit 1)
 				)
 			)
@@ -12204,7 +12201,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a32f314f-76b9-4057-984f-af4c59c6afa6")
-		(property "Reference" "C207"
+		(property "Reference" "C205"
 			(at 42.291 132.1816 0)
 			(effects
 				(font
@@ -12258,7 +12255,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C207")
+					(reference "C205")
 					(unit 1)
 				)
 			)
@@ -12330,7 +12327,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0418")
+					(reference "#PWR0218")
 					(unit 1)
 				)
 			)
@@ -12412,7 +12409,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C409")
+					(reference "C209")
 					(unit 1)
 				)
 			)
@@ -12484,7 +12481,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0422")
+					(reference "#PWR0222")
 					(unit 1)
 				)
 			)
@@ -12506,7 +12503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac0b6a91-f57f-4bb7-85e4-9e5643a580ee")
-		(property "Reference" "#PWR0211"
+		(property "Reference" "#PWR0209"
 			(at 58.42 127 0)
 			(effects
 				(font
@@ -12556,7 +12553,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0211")
+					(reference "#PWR0209")
 					(unit 1)
 				)
 			)
@@ -12632,7 +12629,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C410")
+					(reference "C210")
 					(unit 1)
 				)
 			)
@@ -12710,7 +12707,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0417")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 			)
@@ -12792,7 +12789,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C417")
+					(reference "C217")
 					(unit 1)
 				)
 			)
@@ -12870,7 +12867,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0415")
+					(reference "#PWR0213")
 					(unit 1)
 				)
 			)
@@ -12952,7 +12949,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C418")
+					(reference "C218")
 					(unit 1)
 				)
 			)
@@ -13035,7 +13032,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "R401")
+					(reference "R202")
 					(unit 1)
 				)
 			)
@@ -13113,7 +13110,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0433")
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
@@ -13193,7 +13190,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C421")
+					(reference "C221")
 					(unit 1)
 				)
 			)
@@ -13297,7 +13294,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "J401")
+					(reference "J201")
 					(unit 1)
 				)
 			)
@@ -13319,7 +13316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf66aaee-ffc1-4989-8427-1729759c4882")
-		(property "Reference" "U203"
+		(property "Reference" "U202"
 			(at 60.6141 123.19 0)
 			(effects
 				(font
@@ -13384,7 +13381,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "U203")
+					(reference "U202")
 					(unit 1)
 				)
 			)
@@ -13478,13 +13475,80 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "RN401")
+					(reference "RN201")
 					(unit 1)
 				)
 			)
 			(project "ETH1IRCAM1"
 				(path "/f8ed47a9-95cb-42d4-bd7f-c1b2ff57d6fd/02ab86d0-6a73-43f0-a2e2-fa1962166526"
 					(reference "RN401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 86.36 97.79 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c5221671-92c1-42ac-af02-d98dce39613f")
+		(property "Reference" "R208"
+			(at 86.36 95.504 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 86.36 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 86.36 99.568 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 86.36 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fc5b2143-a920-4778-9793-b7f5851f14cb")
+		)
+		(pin "1"
+			(uuid "4bd0153e-0d36-45f1-96e1-ee9b78bf3e63")
+		)
+		(instances
+			(project "ETH1ACPL-C79x"
+				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
+					(reference "R208")
 					(unit 1)
 				)
 			)
@@ -13499,7 +13563,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c527bb9d-a83e-45a5-a6ae-e7c6cef36d1c")
-		(property "Reference" "#PWR0209"
+		(property "Reference" "#PWR0206"
 			(at 48.26 104.14 0)
 			(effects
 				(font
@@ -13549,7 +13613,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0209")
+					(reference "#PWR0206")
 					(unit 1)
 				)
 			)
@@ -13625,7 +13689,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "R405")
+					(reference "R206")
 					(unit 1)
 				)
 			)
@@ -13703,7 +13767,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0403")
+					(reference "#PWR0203")
 					(unit 1)
 				)
 			)
@@ -13774,7 +13838,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0413")
+					(reference "#PWR0211")
 					(unit 1)
 				)
 			)
@@ -13846,7 +13910,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0434")
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -13928,7 +13992,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C420")
+					(reference "C220")
 					(unit 1)
 				)
 			)
@@ -14006,7 +14070,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0416")
+					(reference "#PWR0214")
 					(unit 1)
 				)
 			)
@@ -14089,7 +14153,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "JP401")
+					(reference "JP201")
 					(unit 1)
 				)
 			)
@@ -14171,7 +14235,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C403")
+					(reference "C203")
 					(unit 1)
 				)
 			)
@@ -14548,7 +14612,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "U403")
+					(reference "U203")
 					(unit 1)
 				)
 			)
@@ -14624,7 +14688,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C408")
+					(reference "C208")
 					(unit 1)
 				)
 			)
@@ -14722,7 +14786,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "U404")
+					(reference "U204")
 					(unit 1)
 				)
 			)
@@ -14804,7 +14868,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C413")
+					(reference "C213")
 					(unit 1)
 				)
 			)
@@ -14825,7 +14889,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eae9f101-3110-4d2a-904a-02ef749e5674")
-		(property "Reference" "R205"
+		(property "Reference" "R201"
 			(at 58.42 66.294 90)
 			(effects
 				(font
@@ -14877,7 +14941,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "R205")
+					(reference "R201")
 					(unit 1)
 				)
 			)
@@ -14892,7 +14956,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5bf1912-c89b-488a-ac98-d8f0861b1672")
-		(property "Reference" "C206"
+		(property "Reference" "C202"
 			(at 30.988 132.334 0)
 			(effects
 				(font
@@ -14946,7 +15010,7 @@
 		(instances
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C206")
+					(reference "C202")
 					(unit 1)
 				)
 			)
@@ -15018,7 +15082,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0436")
+					(reference "#PWR0236")
 					(unit 1)
 				)
 			)
@@ -15096,7 +15160,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "#PWR0402")
+					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -15172,7 +15236,7 @@
 			)
 			(project "ETH1ACPL-C79x"
 				(path "/e8a00664-7a76-490e-9471-410cd41c5487/79c23414-ecb6-4a0c-899f-871e97dd0b96"
-					(reference "C416")
+					(reference "C216")
 					(unit 1)
 				)
 			)
