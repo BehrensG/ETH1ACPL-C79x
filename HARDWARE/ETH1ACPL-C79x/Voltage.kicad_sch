@@ -3991,7 +3991,7 @@
 		(uuid "f77eae95-a3bd-42af-ac46-c9b644d6e318")
 	)
 	(junction
-		(at 257.81 86.36)
+		(at 261.62 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f9e98dba-5e62-4939-8c1c-6e9130e85d1b")
@@ -4262,7 +4262,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 86.36) (xy 261.62 86.36)
+			(xy 261.62 86.36) (xy 265.43 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4519,6 +4519,16 @@
 			(type default)
 		)
 		(uuid "3d1edba9-d998-4cf4-9f59-26c6c009f32f")
+	)
+	(wire
+		(pts
+			(xy 256.54 86.36) (xy 261.62 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d9e76e1-0812-47c7-8706-b13751555ca2")
 	)
 	(wire
 		(pts
@@ -5149,16 +5159,6 @@
 			(type default)
 		)
 		(uuid "855d5383-b1e7-41e0-8342-7e5fd0976cbb")
-	)
-	(wire
-		(pts
-			(xy 256.54 86.36) (xy 257.81 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "857c1ca0-9864-408d-a1d7-707a50cfa52c")
 	)
 	(wire
 		(pts
@@ -6130,9 +6130,19 @@
 		)
 		(uuid "fcfd19c9-edb7-4bf8-b55e-39517455e73e")
 	)
+	(text "56k = ERA-8VRB5602V"
+		(exclude_from_sim no)
+		(at 57.912 109.474 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1107a537-ff3a-4b8f-a617-93c4ec3f848f")
+	)
 	(hierarchical_label "VOUT"
 		(shape output)
-		(at 261.62 86.36 0)
+		(at 265.43 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7629,7 +7639,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2bb138bf-99f0-4bd3-a9c4-8594ed4ba40a")
 		(property "Reference" "C509"
@@ -8658,16 +8668,16 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 257.81 90.17 0)
+		(at 261.62 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4e6e5a52-8f6b-4305-aa83-8cd2aba15547")
 		(property "Reference" "C517"
-			(at 260.985 89.535 0)
+			(at 264.795 89.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8676,7 +8686,7 @@
 			)
 		)
 		(property "Value" "100p"
-			(at 260.985 92.075 0)
+			(at 264.795 92.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8685,7 +8695,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 258.7752 93.98 0)
+			(at 262.5852 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8694,7 +8704,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 257.81 90.17 0)
+			(at 261.62 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8703,7 +8713,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 257.81 90.17 0)
+			(at 261.62 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9427,7 +9437,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "69995318-f51f-4d32-81c3-8c2446c99cbb")
 		(property "Reference" "R526"
@@ -9709,7 +9719,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "0"
 			(at 252.73 83.82 90)
 			(effects
 				(font
@@ -10113,7 +10123,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 257.81 93.98 0)
+		(at 261.62 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10121,7 +10131,7 @@
 		(dnp no)
 		(uuid "8f623540-8445-429a-af7f-53e3e682efe3")
 		(property "Reference" "#PWR0528"
-			(at 257.81 100.33 0)
+			(at 261.62 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10130,7 +10140,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 257.81 98.425 0)
+			(at 261.62 98.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10138,7 +10148,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 93.98 0)
+			(at 261.62 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10147,7 +10157,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 93.98 0)
+			(at 261.62 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10156,7 +10166,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 257.81 93.98 0)
+			(at 261.62 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10882,7 +10892,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "aeeeda10-3e05-4a32-b96e-48321feb335c")
 		(property "Reference" "R519"
@@ -11018,7 +11028,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b52204e6-a4a5-40d3-afed-cdf278c34735")
 		(property "Reference" "C510"

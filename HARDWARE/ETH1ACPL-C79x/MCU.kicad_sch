@@ -13334,7 +13334,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-5_HandSoldering"
+		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-5"
 			(at 58.42 134.62 0)
 			(effects
 				(font
@@ -14887,7 +14887,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "eae9f101-3110-4d2a-904a-02ef749e5674")
 		(property "Reference" "R201"
 			(at 58.42 66.294 90)
