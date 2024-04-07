@@ -3949,22 +3949,10 @@
 		(uuid "d97635f9-8c57-486d-b77f-cfa2453f8bab")
 	)
 	(junction
-		(at 36.83 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "da78296a-dd0e-462f-b802-3ca34c45dbd8")
-	)
-	(junction
 		(at 134.62 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9b9d4d7-3a23-4675-a2f6-be4c32426341")
-	)
-	(junction
-		(at 36.83 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed17739d-e832-4f3d-a4e7-8b63eb6ffc43")
 	)
 	(junction
 		(at 77.47 180.34)
@@ -4032,7 +4020,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 91.44) (xy 33.02 82.55)
+			(xy 33.02 95.25) (xy 33.02 82.55)
 		)
 		(stroke
 			(width 0)
@@ -4159,16 +4147,6 @@
 			(type default)
 		)
 		(uuid "11b8e1a6-0021-4d01-ae4a-e221b5cdd4ac")
-	)
-	(wire
-		(pts
-			(xy 36.83 91.44) (xy 36.83 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11d5514f-f50b-4999-9257-8b1ade8b61d4")
 	)
 	(wire
 		(pts
@@ -4722,16 +4700,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 71.12) (xy 36.83 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5096ea74-119a-45a0-a83a-224259291018")
-	)
-	(wire
-		(pts
 			(xy 147.32 38.1) (xy 134.62 38.1)
 		)
 		(stroke
@@ -4742,7 +4710,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 71.12) (xy 36.83 71.12)
+			(xy 33.02 66.04) (xy 36.83 66.04)
 		)
 		(stroke
 			(width 0)
@@ -5072,7 +5040,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 71.12) (xy 33.02 80.01)
+			(xy 33.02 66.04) (xy 33.02 80.01)
 		)
 		(stroke
 			(width 0)
@@ -5162,7 +5130,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 90.17) (xy 36.83 91.44)
+			(xy 36.83 90.17) (xy 36.83 95.25)
 		)
 		(stroke
 			(width 0)
@@ -5402,7 +5370,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 91.44) (xy 36.83 91.44)
+			(xy 33.02 95.25) (xy 36.83 95.25)
 		)
 		(stroke
 			(width 0)
@@ -5432,7 +5400,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 66.04) (xy 36.83 71.12)
+			(xy 36.83 66.04) (xy 36.83 72.39)
 		)
 		(stroke
 			(width 0)
@@ -6130,7 +6098,7 @@
 		)
 		(uuid "fcfd19c9-edb7-4bf8-b55e-39517455e73e")
 	)
-	(text "56k = ERA-8VRB5602V"
+	(text "56k = ERA-8VRB5602V\n56 = ERA-3VEB56R0V"
 		(exclude_from_sim no)
 		(at 57.912 109.474 0)
 		(effects
