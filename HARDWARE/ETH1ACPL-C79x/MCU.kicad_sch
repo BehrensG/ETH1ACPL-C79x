@@ -9076,10 +9076,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2056ebcd-56f4-4a9e-9805-531996431e25")
 		(property "Reference" "D401"
-			(at 46.99 22.86 90)
+			(at 48.006 23.368 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9087,8 +9086,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ASCB-JTC2-0A308"
-			(at 54.61 25.4 90)
+		(property "Value" "ASMB-MTB1-0B3A2"
+			(at 55.88 25.908 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13398,7 +13397,7 @@
 		(fields_autoplaced yes)
 		(uuid "c15a01d9-1fd5-4740-b45d-a56cb4c556f4")
 		(property "Reference" "RN401"
-			(at 33.02 35.56 0)
+			(at 33.02 35.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13406,8 +13405,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680"
-			(at 33.02 38.1 0)
+		(property "Value" "EXB-V8V102JV"
+			(at 33.02 38.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
